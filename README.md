@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rahulkatlaparthi
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Spring boot
+- 💞️ I’m looking to collaborate on Rest APIs
+- 📫 How to reach me rahulkatlaparthi@gmail.com
